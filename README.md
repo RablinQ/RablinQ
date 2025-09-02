@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to RablinQ ICT GitHub Profile
 
-<!--
-**RablinQ/RablinQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dave Rabelink, and this is my company GitHub account.  
+Most of my open-source work is part of the **Team Developer Community**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Team Developer Community GitHub
+Looking for shared projects, libraries, or tools related to **Gupta Team Developer (SQLWindows)**?  
+You’ll find them here:  
+➡️ [Team Developer Community Repositories on GitHub](https://github.com/orgs/TeamDeveloperCommunity/repositories)
+
+---
+
+## 📌 About this profile
+- This account is mainly for **personal experiments** and future private projects.  
+- All **community repositories** are hosted under the [Team Developer Community](https://github.com/TeamDeveloperCommunity) organization.  
+
+---
+
+## 🔗 Connect
+- 💬 Forum: [Team Developer Community Forum](https://forum.tdcommunity.net)  
